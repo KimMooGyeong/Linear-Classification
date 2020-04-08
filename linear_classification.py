@@ -4,7 +4,7 @@ import distribution as dist
 
 """linear classification model for 2-dimensional data set.
     if you want to classify higher dimension data,
-    it is necessary to modify the basis function phi ans variable W"""
+    it is necessary to modify the basis function phi and variable W"""
 
 # dimension of input variable
 D = 2
