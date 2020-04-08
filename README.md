@@ -1,5 +1,7 @@
 # Linear-Classification
 
+*** numpy, matplotlib, scipy is needed ***
+
 This program draw decision boundary of linear classification model on synthetic data.
 
 Explanation of files
